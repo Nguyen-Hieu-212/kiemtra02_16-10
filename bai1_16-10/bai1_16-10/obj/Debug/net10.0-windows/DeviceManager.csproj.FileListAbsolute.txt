@@ -1,0 +1,15 @@
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\DeviceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\DeviceManager.AssemblyInfoInputs.cache
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\DeviceManager.AssemblyInfo.cs
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\DeviceManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\DeviceManager.sourcelink.json
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\bin\Debug\net10.0-windows\DeviceManager.exe
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\bin\Debug\net10.0-windows\DeviceManager.deps.json
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\bin\Debug\net10.0-windows\DeviceManager.runtimeconfig.json
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\bin\Debug\net10.0-windows\DeviceManager.dll
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\bin\Debug\net10.0-windows\DeviceManager.pdb
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\DeviceManager.dll
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\refint\DeviceManager.dll
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\DeviceManager.pdb
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\DeviceManager.genruntimeconfig.cache
+C:\Users\Admin\source\idk\bai1_16-10\bai1_16-10\obj\Debug\net10.0-windows\ref\DeviceManager.dll
